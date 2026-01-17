@@ -1,0 +1,48 @@
+# SQL Analytics Projects
+
+This repository contains **SQL-based data analysis projects** created using real-world datasets.
+The projects focus on **data querying, reporting, and business insights**, aligned with **Junior Data Analyst / Reporting Analyst** roles.
+
+---
+
+Projects Included
+
+ 1. Coffee Shop Sales Analysis
+- Sales and revenue analysis
+- Customer purchase trends
+- Time-based performance insights
+
+ 2. Domino’s Sales & Order Analysis
+- Total revenue and order volume
+- Top-selling products
+- Category and time-based analysis
+
+ 3. OLA Ride Data Analysis
+- Ride and revenue trends
+- Peak hour analysis
+- Location-based insights
+
+ 4. Music Store Data Analysis
+- Customer and sales analysis
+- Genre and artist performance
+- Revenue trends using SQL queries
+
+ 5. Indian Election Results Analysis
+- Party and candidate performance
+- Vote share analysis
+- State and constituency-level insights
+
+---
+
+ Tools & Skills
+- SQL
+- JOINs, GROUP BY, HAVING
+- Subqueries and Aggregations
+- Data Analysis & Reporting
+
+---
+
+Target Role
+Junior Data Analyst / MIS / Reporting Analyst (Fresher)
+
+Each project folder includes SQL scripts, datasets, and documentation.
